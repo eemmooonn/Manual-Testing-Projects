@@ -2,7 +2,7 @@
 
 **1.** **Project-OpenCart**
 
-![Logo](/1.%20Project-OpenCart/logo.png)
+<img src="/1.%20Project-OpenCart/logo.png" width=300 height=150>
 
 **OpenCart** is an open-source eCommerce platform.
 
